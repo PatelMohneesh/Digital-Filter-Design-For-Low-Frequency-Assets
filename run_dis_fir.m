@@ -1,7 +1,3 @@
-%Mohneesh Patel
-%MS Electrical Engineering
-%Columbia University
-%Digital Signal Processing Project
 
 
 %Calculates the variance and CP 

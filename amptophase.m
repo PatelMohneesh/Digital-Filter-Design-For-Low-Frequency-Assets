@@ -1,7 +1,4 @@
-%Name - Mohneesh Patel
-%MS Electrical Engineering
-%Columbia University
-%Digital Signal Processing Project
+
 
 %Estimates the phase response phi from the amplitude response A of 
 %a minimum phase system using the straight Hilbert Transform

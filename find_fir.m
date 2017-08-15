@@ -1,7 +1,3 @@
-%Name - Mohneesh Patel
-%MS Electrical Engineering
-%Columbia University
-%Digital Signal Processing Project
 
 %Matches frequency of pass band edge and returns the 
 %corresponding index from the range of frequencies.

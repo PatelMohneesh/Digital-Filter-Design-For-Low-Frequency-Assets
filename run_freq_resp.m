@@ -1,7 +1,3 @@
-%Name - Mohneesh Patel
-%MS Electrical Engineering
-%Columbia University
-%Digital Signal Processing Project
 
 
 %Compares the frequency response of moving average & momentum FIR

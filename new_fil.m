@@ -1,7 +1,4 @@
-%Name - Mohneesh Patel
-%MS Electrical Engineering
-%Columbia University
-%Digital Signal Processing Project
+
 
 %estimates the filter coefficients of the minimum phase filter 
 %design and returns the required filter

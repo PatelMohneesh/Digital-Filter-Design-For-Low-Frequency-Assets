@@ -1,7 +1,4 @@
-%Name - Mohneesh Patel
-%MS Electrical Engineering
-%Columbia University
-%Digital Signal Processing Project
+
 
 %Estimates coefficients of momentum filter by taking the difference 
 %between the number of samples i.e. L2-L1 and returns a 
